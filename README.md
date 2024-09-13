@@ -2,7 +2,7 @@
 I'm Connor
 
 - 🔭 I’m currently working on a super version to do list
-- 🌱 I’m currently learning more about react
+- 🌱 I’m currently learning about Vue 3!
 - 👯 I’m looking to collaborate on any interesting looking app
 - 🤔 I’m looking for help with Angular and Spring Boot
 - 💬 Ask me about anything!
